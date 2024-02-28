@@ -1,7 +1,7 @@
 {
   "name": "insomnia-plugin-user-agents",
   "description": "A plugin for generating random user agents",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "license": "MIT",
   "repository": "https://github.com/Gomah/insomnia-plugin-user-agents",
@@ -21,6 +21,6 @@
     "unlisted": false
   },
   "dependencies": {
-    "user-agents": "1.1.85"
+    "user-agents": "1.1.127"
   }
 }
