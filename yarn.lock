@@ -7,9 +7,9 @@ lodash.clonedeep@^4.5.0:
   resolved "https://registry.yarnpkg.com/lodash.clonedeep/-/lodash.clonedeep-4.5.0.tgz#e23f3f9c4f8fbdde872529c1071857a086e5ccef"
   integrity sha512-H5ZhCF25riFd9uB5UCkVKo61m3S/xZk1x4wA6yp/L3RFP6Z/eHH1ymQcGLo7J3GMPfm0V/7m1tryHuGVxpqEBQ==
 
-user-agents@1.1.237:
-  version "1.1.237"
-  resolved "https://registry.yarnpkg.com/user-agents/-/user-agents-1.1.237.tgz#675d7542a65d9b5cc303c519979c11018cb2d282"
-  integrity sha512-mm/VSwqKWTZkARCEfjhcCm45uzEyW5sXYDYOB8FUsFlXiJFOCnGUFwaSW2ExGKalZRYn5GmEqPTW6avAJgw6uA==
+user-agents@1.1.255:
+  version "1.1.255"
+  resolved "https://registry.yarnpkg.com/user-agents/-/user-agents-1.1.255.tgz#3219ce3e08a8a64e801484bf018e205712466bf2"
+  integrity sha512-9us8BJkCW2NyjjzHyv/xPa4y7YmMCS4er34M4O5es7F06UTYyjC4EzPU9jA68TAC2pN4Rv9kpiCTXDc+pEUMeg==
   dependencies:
     lodash.clonedeep "^4.5.0"
